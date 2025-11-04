@@ -1,15 +1,15 @@
 # Site settings
-name: 华叔的博客
-email: 2489186909@qq.com
+name: 小可嗒嗒的博客
+email: maoxiaoke@outlook.com
 author: M/J
 url: http://xiaokedada.com
 resume_site: http://xiaokedada.com/me/
 github: https://github.com/maoxiaoke/
 baseurl: ""  #根目录
-description: 视觉魔术师。
+description: 假如生活欺骗了你，不要悲伤，不要哭泣。
 motto: 我们笑着说再见，却深知再见遥遥无期。
 #motto: 如果生活欺骗了你，不要悲伤，不要哭泣。
-banner: 专注计算机视觉、嵌入式系统、Android Framework等研究。
+banner: 我想带你去看绚丽的山峦，去看秀丽的溪谷，这份心情，人类是如何称呼的呢。
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
 excerpt_separator:  '<!-- more -->' #文章摘要
