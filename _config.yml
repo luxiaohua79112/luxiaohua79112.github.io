@@ -1,18 +1,18 @@
 # Site settings
-name: åå”çš„åšå®¢
+name: »ªÊåµÄ²©¿Í
 email: 2489186909@qq.com
 author: M/J
 url: http://xiaokedada.com
 resume_site: http://xiaokedada.com/me/
 github: https://github.com/maoxiaoke/
-baseurl: ""  #æ ¹ç›®å½•
-description: è§†è§‰é­”æœ¯å¸ˆã€‚
-motto: æˆ‘ä»¬ç¬‘ç€è¯´å†è§ï¼Œå´æ·±çŸ¥å†è§é¥é¥æ— æœŸã€‚
-#motto: å¦‚æœç”Ÿæ´»æ¬ºéª—äº†ä½ ï¼Œä¸è¦æ‚²ä¼¤ï¼Œä¸è¦å“­æ³£ã€‚
-banner: ä¸“æ³¨è®¡ç®—æœºè§†è§‰ã€åµŒå…¥å¼ç³»ç»Ÿã€Android Frameworkç­‰ç ”ç©¶ã€‚
+baseurl: ""  #¸ùÄ¿Â¼
+description: ÊÓ¾õÄ§ÊõÊ¦¡£
+motto: ÎÒÃÇĞ¦×ÅËµÔÙ¼û£¬È´ÉîÖªÔÙ¼ûÒ£Ò£ÎŞÆÚ¡£
+#motto: Èç¹ûÉú»îÆÛÆ­ÁËÄã£¬²»Òª±¯ÉË£¬²»Òª¿ŞÆü¡£
+banner: ×¨×¢¼ÆËã»úÊÓ¾õ¡¢Ç¶ÈëÊ½ÏµÍ³¡¢Android FrameworkµÈÑĞ¾¿¡£
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
-excerpt_separator:  '<!-- more -->' #æ–‡ç« æ‘˜è¦
+excerpt_separator:  '<!-- more -->' #ÎÄÕÂÕªÒª
 paginate: 8
 paginate_path: "page:num"
 gems: [jekyll-paginate]
